@@ -120,7 +120,7 @@
 
       <section class="section">
         <div class="section-head"><h2>完整课程体系</h2><span class="en">14 Parts</span></div>
-        <p class="section-desc">从统计直觉到高级概率论，14 个部分层层递进。当前正在编写第 1—4 部分，其余章节将陆续完成——我们不会把没写的内容标成已完成。</p>
+        <p class="section-desc">从统计直觉到高级概率论，14 个部分层层递进、全部完成。119 章均已达到教材级深度，每章含完整 12 个环节，可独立阅读、循序渐进。</p>
         <div class="part-grid">${partsHTML}</div>
       </section>
 
